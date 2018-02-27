@@ -1,0 +1,9 @@
+# Comments must be on the first line
+not-news.txt    
+
+# Test comment
+david-news.txt
+
+# Adding a directory
+temp/
+sandbox/*.doc
