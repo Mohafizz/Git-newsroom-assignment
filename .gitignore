@@ -1,0 +1,10 @@
+#comment only on the first line 
+
+#ignore file
+not-news.txt
+
+#ignore directories
+temp/
+
+#ignore specific files in directories 
+sandbox/doc1.doc
